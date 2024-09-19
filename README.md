@@ -3,7 +3,7 @@
 - 🌱 I’m currently honing my skills in Python and C++
 - 📫 How to reach me [...](https://www.linkedin.com/in/benson-muchoki-nyaga/)
 - 😄 Pronouns: Mr
-- ⚡ Fun fact: I code
+- ⚡ Fun fact: I code!
 
 <!---
 nyagajjr/nyagajjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
