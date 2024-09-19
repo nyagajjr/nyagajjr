@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benson Nyaga
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently honing my skills in Python and C++
+- 🌱 I’m currently honing my skills in Python and Javascript
 - 📫 How to reach me [...](https://www.linkedin.com/in/benson-muchoki-nyaga/)
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: I code!
