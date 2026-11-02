@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Benson Nyaga
-- 👀 I’m interested in Backend Development
+- Software Engineer
 - 🌱 I’m coding
 - 📫 How to reach me [...](https://www.linkedin.com/in/benson-muchoki-nyaga/)
 - 😄 Pronouns: Mr
