@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Benson Nyaga
-- Software Engineer
+- 👨🏾‍💻 Software Engineer
 - 🌱 I’m coding
 - 📫 How to reach me [...](https://www.linkedin.com/in/benson-muchoki-nyaga/)
 - 😄 Pronouns: Mr
